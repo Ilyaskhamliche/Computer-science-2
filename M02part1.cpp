@@ -1,3 +1,7 @@
+#File-Name: M02part1.cpp
+#Author: Ilyas Khamliche
+#Date:11/6/2023
+#Purpose: allow the user to enter the date between the years of 1900 and 2020
 #include <iostream>
 #include <stdexcept>
 
