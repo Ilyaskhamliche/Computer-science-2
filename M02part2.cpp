@@ -1,7 +1,4 @@
-// File-Name: M02Part2.cpp
-// Author: Ilyas Khamliche
-// Date: 11/6/2023
-// Purpose: take the stereo receiver class and put invalid parameters that ensure that the user inputs only the allowed specifications
+
 #include <iostream>
 #include <string>
 #include <stdexcept>
